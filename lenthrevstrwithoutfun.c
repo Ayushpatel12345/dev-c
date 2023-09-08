@@ -9,7 +9,7 @@ int main()
 	{
 		length++;
 	}
-	printf("\nlength of string:",s);
+	printf("\nlength of string:",length);
         for(j=length-1;j>=0;j--)
 		printf("%c",s[j]);
 return 0;
